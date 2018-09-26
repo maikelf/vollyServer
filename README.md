@@ -10,8 +10,8 @@ This project is REST API form project VollyCLient (https://github.com/maikelf/vo
 ## Install
 
 1- Clone this project: `git clone https://github.com/maikelf/vollyServer`  
-2- Move to vollyServer directory: `cd vollyServer`  
-3- `npm install`  
+2- Move to vollyServer directory: `cd vollyServer`    
+3- `npm install`    
 
 ## Run
 
