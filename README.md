@@ -1,6 +1,6 @@
 # vollyServer
 
-This project is REST API form project VollyCLient (https://github.com/maikelf/vollyClient).
+This project is a REST API for project VollyCLient (https://github.com/maikelf/vollyClient).
 
 ## Requirements
 
